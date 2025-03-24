@@ -1,0 +1,147 @@
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\appsettings.Development.json
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\appsettings.json
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.exe
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.deps.json
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.runtimeconfig.json
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.pdb
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\AutoMapper.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\FluentValidation.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Humanizer.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.csproj.AssemblyReference.cache
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.GeneratedMSBuildEditorConfig.editorconfig
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.AssemblyInfoInputs.cache
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.AssemblyInfo.cs
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.csproj.CoreCompileInputs.cache
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.MvcApplicationPartsAssemblyInfo.cs
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.MvcApplicationPartsAssemblyInfo.cache
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets.build.json
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets.development.json
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.GiftManagement_Version2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.build.GiftManagement_Version2.props
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GiftManagement_Version2.props
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GiftManagement_Version2.props
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\scopedcss\bundle\GiftManagement_Version2.styles.css
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftMana.4C8D1948.Up2Date
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\refint\GiftManagement_Version2.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.pdb
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.genruntimeconfig.cache
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\ref\GiftManagement_Version2.dll
+D:\API TEST\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.staticwebassets.runtime.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\appsettings.Development.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\appsettings.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.staticwebassets.runtime.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.exe
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.deps.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.runtimeconfig.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\GiftManagement_Version2.pdb
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\AutoMapper.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\FluentValidation.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Humanizer.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.csproj.AssemblyReference.cache
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.AssemblyInfoInputs.cache
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.AssemblyInfo.cs
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.csproj.CoreCompileInputs.cache
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.MvcApplicationPartsAssemblyInfo.cs
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.sourcelink.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.GiftManagement_Version2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.build.GiftManagement_Version2.props
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GiftManagement_Version2.props
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GiftManagement_Version2.props
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\scopedcss\bundle\GiftManagement_Version2.styles.css
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftMana.4C8D1948.Up2Date
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\refint\GiftManagement_Version2.dll
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.pdb
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\GiftManagement_Version2.genruntimeconfig.cache
+D:\Github\UserManagament-\GiftManagement_Version2\GiftManagement_Version2\obj\Debug\net6.0\ref\GiftManagement_Version2.dll

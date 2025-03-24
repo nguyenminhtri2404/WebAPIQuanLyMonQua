@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GiftManagement_Version2.props" />
+</Project>
