@@ -32,9 +32,9 @@ GiftManagement/
 ```
 
 ## 🔑 Chức năng chính
-✅ **Quản lý quà**: Tạo, đọc, cập nhật và xóa các quà chính, quà khuyến mãi. Thiết lập quà khuyế mãi kèm theo quà chính         
+✅ **Quản lý quà**: CRUD các quà chính, quà khuyến mãi. Thiết lập quà khuyến mãi kèm theo quà chính         
 ✅ **Tính năng mua quà**: Cho phép người dùng mua quà bằng điểm.   
 ✅ **Tính năng phát quà**: Phát quà khi còn quà khuyến mãi, phát quà khi hết quà khuyến mãi, tự động phát quà theo ngày chọn trước.                         
 ✅ **Quản lý người dùng**: Xác thực, phân quyền, quản lý thông tin người dùng.                                    
 ✅ **Bảng xếp hàng tháng**: Cho phép xếp hạng người dùng mua quà hàng tháng.                                  
-✅ **Xác thực & Phân quyền**: JWT Authentication, Refresh Token, Custom Authorization sử dụng Middlleware                            
+✅ **Xác thực & phân quyền**: JWT Authentication, Refresh Token, Custom Authorization sử dụng Middlleware                            
